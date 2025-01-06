@@ -290,6 +290,7 @@ Website ini dibangun menggunakan berbagai teknologi modern untuk memberikan peng
 ### **Frontend:**
 
 - **HTML5**: Menyusun struktur halaman web yang bersih dan responsif.
+- **Bootstrap 5**
 - **CSS3**: Mengatur gaya visual, layout, dan responsivitas halaman.
 - **JavaScript**: Menangani interaktivitas dan dinamika halaman.
 
